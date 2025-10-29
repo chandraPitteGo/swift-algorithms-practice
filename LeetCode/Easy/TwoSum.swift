@@ -5,7 +5,7 @@
 //  Tags: Array, Dictionary
 //
 
-//
+
 // Given an array of integers, return the indices of the two numbers that sum up to the target value.
 // Example: Input: [3,2,7,11,15], Target: 9 → Output: [1,2]
 
@@ -16,7 +16,9 @@
 /// - Space Complexity: O(1)
 ///
 func twoSumBruteForce(_ numbers: [Int], _ target: Int) -> [Int] {
-    guard !numbers.isEmpty else { return [] }
+    guard !numbers.isEmpty else {
+        return []
+    }
     
     for i in 0..<numbers.count {
         for j in (i+1)..<numbers.count {
