@@ -1,4 +1,4 @@
-# 🧠 Swift Algorithms Practice — Solve Data Structures & Algorithm Problems in Swift
+# 🧠 Swift Algorithms Practice
 
 
 A curated collection of algorithm and data structure problem solutions, implemented in Swift.
@@ -9,8 +9,10 @@ Each folder contains clearly named solutions ─ e.g. `LeetCode/Easy/TwoSum.swif
 Feel free to explore, learn, and contribute!
 
 ---
+## 🏷️ Topics
+`swift` `algorithms` `leetcode` `datastructures` `interview-prep`
 
-## 💡 Example Problem
+## 📂 Example Problem
 
 **File:** `LeetCode/Easy/TwoSum.swift`
 
