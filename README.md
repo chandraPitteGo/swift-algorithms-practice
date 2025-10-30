@@ -1,7 +1,12 @@
-# 🧠 Swift Algorithms Practice
+# 🧠 Swift Algorithms Practice — Solve Data Structures & Algorithm Problems in Swift
 
-A collection of algorithm problems solved in **Swift**.
-This repository is intended for practicing data structures and algorithms, and to help others preparing for coding interviews in Swift.
+
+A curated collection of algorithm and data structure problem solutions, implemented in Swift.
+This repository is designed for:
+- Swift developers preparing for coding interviews
+- Anyone looking to sharpen algorithmic thinking with practical Swift examples
+Each folder contains clearly named solutions ─ e.g. `LeetCode/Easy/TwoSum.swift`.
+Feel free to explore, learn, and contribute!
 
 ---
 
